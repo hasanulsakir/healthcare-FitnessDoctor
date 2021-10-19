@@ -4,12 +4,12 @@ This Is Healthcare Project Done By with ReactJS [Site](https://healthcare-projec
 
 # In This Project I Used:
 
--Firebase Authentication
--Firebase Google Authentication
--Firebase Email Authentication
--React
+- Firebase Authentication
+- Firebase Google Authentication
+- Firebase Email Authentication
+- React
 
 # This Is Healthcare Project
 
--you can See All Service In Home Page
--Service Details
+- you can See All Service In Home Page
+- Service Details
