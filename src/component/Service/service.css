@@ -1,0 +1,23 @@
+.cardSize{
+   border: none;
+
+}
+.card-img{
+    max-height: 150px;
+}
+.singlecard-img{
+    max-height: 500px;
+}
+.cardBgColor {
+    background: #140355;
+    color: #fff;
+}
+.cardBtn {
+    padding: 6px 159px;
+    border: none;
+    background: #6201bf;
+    color: #fff;
+    font-weight: 700;
+    /* align-items: center; */
+    margin: auto;
+}

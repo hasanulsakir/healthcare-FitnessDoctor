@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ser1",
+    "title": "PHYSIOTHERAPY",
+    "Description": "Physiotherapy is an evidence-based healthcare profession that views human movement as central to health and wellbeing. Physiotherapy aims to maintain, restore and improve your function after disease or injury, so you can get back to doing what you love and enjoy an injury-free lifestyle that doesn’t hold you back.",
+    "service_img": "https://i.ibb.co/zfsWnww/Podiatry-e1555457693145.jpg",
+    "price": 20
+  },
+  {
+    "id": "ser2",
+    "title": "SPORTS AND EXERCISE ",
+    "Description": "Sports and Exercise Physiotherapists can work with you to maintain or restore your optimal level of function and performance, using their knowledge of injury prevention, specific rehabilitation, strength and conditioning, and load management.",
+    "service_img": "https://i.ibb.co/Jjvcr7Z/Sports-and-Exercise-Physiotherapy-e1555457136601.jpg",
+    "price": 200
+  },
+  {
+    "id": "ser3",
+    "title": "MUSCULOSKELETAL PHYSIOTHERAPY",
+    "Description": "Musculoskeletal (or Manipulative) Physiotherapists are experts in the management of musculoskeletal and particularly spinal-related pain. A Musculoskeletal Physiotherapist uses their expert assessment skills to diagnose the problem and provide holistic and effective, evidence-based treatment.",
+    "service_img": "https://i.ibb.co/t8nDGq8/Orthopaedic-and-Sports-Injury.jpg",
+    "price": 200
+  },
+  {
+    "id": "ser4",
+    "title": "PAEDIATRIC PHYSIOTHERAPY",
+    "Description": "Paediatric Physiotherapists are specialised physiotherapists that focus on paediatric and adolescent development and injury management.",
+    "service_img": "https://i.ibb.co/dkjbgzk/Womens-Health-and-Continence-Physiotherapy-e1555457296239.jpg",
+    "price": 200
+  },
+  {
+    "id": "ser5",
+    "title": "CONTINENCE AND PELVIC HEALTH",
+    "Description": "Continence and Pelvic Health Physiotherapy is a specific type of physiotherapy for the assessment and treatment of bladder, bowel and sexual dysfunction, pelvic pain, pre and post urogynaecological surgery and any concerns during or after pregnancy.",
+    "service_img": "https://i.ibb.co/S6ZYVnj/245432961-1262905254171975-8890254720222621540-n.jpg",
+    "price": 200
+  },
+  {
+    "id": "ser6",
+    "title": "HAND THERAPY",
+    "Description": "Hand therapists evaluate and test the injured limb to assess what treatment is required to restore movement and flow. They design specific treatment programs and work closely with reputable hand surgeons, providing recommendations as required.",
+    "service_img": "https://i.ibb.co/G30RV3Z/Clinical-Exercise-Sessions-e1555457613550.jpg",
+    "price": 200
+  },
+  {
+    "id": "ser7",
+    "title": "PODIATRY",
+    "Description": "Podiatry is the assessment, diagnosis, and treatment of all foot and lower limb conditions, injury and care needs.",
+    "service_img": "https://i.ibb.co/jb94SF9/Paediatric-Physiotherapy.jpg",
+    "price": 200
+  },
+  {
+    "id": "ser8",
+    "title": "HYDROTHERAPY",
+    "Description": "Hydrotherapy is physiotherapy in warm water. The buoyancy and warmth of the water allows for freer movement than on land, so you can exercise with ease for health, rehabilitation, and wellbeing without placing additional pressure on your joints.",
+    "service_img": "https://i.ibb.co/0y4VB1T/Hand-Therapy.jpg",
+    "price": 200
+  },
+  {
+    "id": "ser9",
+    "title": "CLINICAL EXERCISE SESSIONS",
+    "Description": "A clinical exercise session is a personalised and tailored program to help you recover from an injury, achieve your health goals, and stay injury-free. In one session we can use different equipment including reformers, trapeze tables, weights, kettlebells, TRX, resistance bands, and floor-based exercises.",
+    "service_img": "https://i.ibb.co/gTqbzJk/Hydrotherapy.jpg",
+    "price": 200
+  },
+  {
+    "id": "ser10",
+    "title": "ORTHOPAEDIC AND SPORTS INJURY",
+    "Description": "Orthopaedic and Sports Injury Rehabilitation is a multi-disciplinary approach to the prevention, evaluation, and treatment of injuries.",
+    "service_img": "https://i.ibb.co/pxBgMsX/Musculoskeletal-physiotherapy.jpg",
+    "price": 200
+  },
+  {
+    "id": "ser11",
+    "title": "SPORTS MEDICINE",
+    "Description": "Sports Medicine can be one of the most effective treatments of any muscles, joints, ligaments, and tendon related injuries.",
+    "service_img": "https://i.ibb.co/XWgLpw4/Sports-Medicine.jpg",
+    "price": 200
+  },
+  {
+    "id": "ser12",
+    "title": "DIETETICS",
+    "Description": "Dietetics is the science of diet, food and nutrition, and the role they play in overall health.",
+    "service_img": "https://i.ibb.co/BC8pyyM/Dietetics.jpg",
+    "price": 200
+  }
+]

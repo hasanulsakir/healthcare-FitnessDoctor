@@ -1,0 +1,21 @@
+.logo{
+    width: 20%;
+}
+.navBgColor{
+    background-color: rgb(20, 3, 85);
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+.navButton{
+        color: #fff;
+        background-color: #7f00e7b8;
+        border-color:none;
+  
+}
+.navButton:hover{
+        color: #fff;
+        background-color: #7a19c9b8;
+        border-color:none;
+  
+}
