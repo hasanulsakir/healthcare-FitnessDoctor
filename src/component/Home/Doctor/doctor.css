@@ -1,0 +1,25 @@
+.bgImg {
+    background-image: url('../../../images/bannar/bannar3.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+.bgOverlay {
+    background-color: rgb(98 1 191 / 39%);
+}
+.doctorImg{
+   height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.cardSize{
+    border-radius: 10%;
+}
+.doctorCard{
+    border-radius: 20px;
+}
+.profileButton:hover{
+    color: #fff;
+    background-color:#0d6efd;
+}

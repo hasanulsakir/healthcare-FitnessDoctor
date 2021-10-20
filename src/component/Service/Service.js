@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Row } from 'react-bootstrap';
 import ServiceCard from './ServiceCard';
 
+
 const Service = () => {
       const [Services, setServices] = useState([]);
     
@@ -22,7 +23,8 @@ const Service = () => {
                 }
             
             </Row>
-            </div>
+
+        </div>
     );
 };
 

@@ -1,6 +1,16 @@
 .bannarImg{
-    max-height: 70vh;
+    max-height: 85vh;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    backdrop-filter: blur;
+    
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 40%;
+    left: 15%;
+    color: #fff;
+    text-align: left;
 }

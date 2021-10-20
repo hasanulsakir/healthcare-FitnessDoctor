@@ -1,14 +1,17 @@
+.notFoundBody {
+    background-color: rgb(234 233 232);
+    align-items: center;
+}
+.notFoundImg {
+  max-width: 35%;
 
-img{
-    width: 100%;
-    height: auto;
 }
 
+
 .goBack {
-   
-    padding: 12px 40px;
+    padding: .5rem 2rem;
     border: 0;
-    background: green;
+    background: #050555;
     color: white;
     font-size: 2rem;
     margin-bottom: 0px;

@@ -1,5 +1,7 @@
+import Button from '@restart/ui/esm/Button';
 import React, { useEffect, useState } from 'react';
 import { Row } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import ServiceCard from './ServiceCard';
 
 const Services = () => {
@@ -22,6 +24,8 @@ const Services = () => {
                 }
             
             </Row>
+              <Link to="/service">  <Button className="cardBtn mt-5">See All</Button></Link>
+         
             </div>
     );
 };
